@@ -411,6 +411,7 @@
 				5B7AA1541AC4291C0031A429 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		5B7AA1551AC4291C0031A429 /* Build configuration list for PBXNativeTarget "recepieTests" */ = {
 			isa = XCConfigurationList;
@@ -419,6 +420,7 @@
 				5B7AA1571AC4291C0031A429 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 
